@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/triad-swiper/static/css/main.50fdebfb.css",
-    "main.js": "/triad-swiper/static/js/main.0d229f74.js",
+    "main.js": "/triad-swiper/static/js/main.b16f69f3.js",
     "index.html": "/triad-swiper/index.html",
     "main.50fdebfb.css.map": "/triad-swiper/static/css/main.50fdebfb.css.map",
-    "main.0d229f74.js.map": "/triad-swiper/static/js/main.0d229f74.js.map"
+    "main.b16f69f3.js.map": "/triad-swiper/static/js/main.b16f69f3.js.map"
   },
   "entrypoints": [
     "static/css/main.50fdebfb.css",
-    "static/js/main.0d229f74.js"
+    "static/js/main.b16f69f3.js"
   ]
 }
